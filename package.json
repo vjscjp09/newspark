@@ -6,19 +6,7 @@
     "start": "gulp serve"
   },
   "devDependencies": {
-     
-   
   },
   "dependencies": {
-    "@ciscospark/common": "^0.6.0",
-    "@ciscospark/http-core": "^0.6.0",
-    "@ciscospark/spark-core": "^0.6.0",
-    "body-parser": "^1.14.2",
-    "ciscospark": "^0.6.0",
-    "cookie-parser": "^1.4.1",
-    "express": "^4.13.3",
-    "lodash": "^3.10.1"
-    
-   
   }
 }
